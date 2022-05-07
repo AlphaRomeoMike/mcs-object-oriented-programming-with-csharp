@@ -1,0 +1,17 @@
+{
+  "profiles": {
+    "Application": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "authenticationMode": "None"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
